@@ -1,0 +1,3 @@
+include ':CircleIndicator'
+include ':app'
+rootProject.name = "CircleIndicatorLibrary"
